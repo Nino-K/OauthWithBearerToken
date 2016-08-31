@@ -2,7 +2,7 @@ OauthWithBearerToken
 ====================
 Example of a Code Grant flow
 
-![ScreenShot](http://i2.asp.net/media/4320135/webapiwithoauth.png?cdn_id=2014-01-17-001)
+![ScreenShot](https://s3.amazonaws.com/dfc-wiki/en/images/6/6f/OAuthRoles.png)
 
 BasicHttpIdsrv: API example 
 
